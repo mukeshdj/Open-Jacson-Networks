@@ -17,6 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/ramjan1729/Open-Jacson-Networks/assets/155506353/69258cf1-545c-4a52-8311-32ca17d30dcb)
 
 
 ## Program
